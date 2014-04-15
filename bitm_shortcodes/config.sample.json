@@ -1,0 +1,14 @@
+{
+  "shortcodes": [
+    {
+      "name": "foobar",
+      "function": "foobar_func",
+      "parameters":
+              {
+                "foo": "footastic",
+                "bar": "bartastic",
+                "goofy":"this is not nice"
+              }
+    }
+  ]
+}
